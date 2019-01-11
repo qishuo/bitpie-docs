@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, bitpie
+# Copyright (C) 2019, bitpie
 # This file is distributed under the same license as the Bitpie package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 3.8.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-29 15:50+0800\n"
+"POT-Creation-Date: 2019-01-11 14:27+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -341,7 +341,7 @@ msgid "Android 客户端点击“底部菜单 — 设置 - 检测新版本”；
 msgstr ""
 
 #: ../../FAQ/index.rst:165
-msgid "28.为什么我只打算购买1个交易加速器的时候，显示需要多个加速器？什么叫某个交易 ID 与其他多个交易依赖？"
+msgid "28.为什么我只打算购买1个交易加速器的时候，显示需要多个加速器?"
 msgstr ""
 
 #: ../../FAQ/index.rst:167

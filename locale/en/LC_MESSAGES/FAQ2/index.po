@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 3.8.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-11 11:50+0800\n"
+"POT-Creation-Date: 2019-01-11 14:27+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
 
 #: ../../FAQ2/index.rst:2
 msgid "常见问题FAQ"
@@ -342,7 +342,7 @@ msgid "Android 客户端点击“底部菜单 — 设置 - 检测新版本”；
 msgstr ""
 
 #: ../../FAQ2/index.rst:165
-msgid "28.为什么我只打算购买1个交易加速器的时候，显示需要多个加速器？什么叫某个交易 ID 与其他多个交易依赖?"
+msgid "28.为什么我只打算购买1个交易加速器的时候，显示需要多个加速器？"
 msgstr ""
 
 #: ../../FAQ2/index.rst:167
@@ -371,5 +371,8 @@ msgid ""
 msgstr ""
 
 #~ msgid "28.为什么我只打算购买1个交易加速器的时候，显示需要多个加速器？什么叫某个交易 ID 与其他多个交易依赖？"
+#~ msgstr ""
+
+#~ msgid "28.为什么我只打算购买1个交易加速器的时候，显示需要多个加速器？什么叫某个交易 ID 与其他多个交易依赖?"
 #~ msgstr ""
 
